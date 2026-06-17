@@ -1,0 +1,11 @@
+streamlit
+pydantic
+structlog
+pymupdf
+python-dotenv
+pandas
+pytest
+pytest-mock
+# Optional providers (install when using real APIs):
+# langchain_groq
+# langchain_google_genai

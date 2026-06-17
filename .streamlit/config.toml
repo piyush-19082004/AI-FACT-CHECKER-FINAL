@@ -1,0 +1,14 @@
+[server]
+maxUploadSize = 50          # MB — allow large PDFs
+enableCORS = false
+enableXsrfProtection = true
+
+[theme]
+primaryColor        = "#4F8EF7"
+backgroundColor     = "#0E1117"
+secondaryBackgroundColor = "#1A1D27"
+textColor           = "#FAFAFA"
+font                = "sans serif"
+
+[browser]
+gatherUsageStats = false    # Respect user privacy
