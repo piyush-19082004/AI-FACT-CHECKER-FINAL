@@ -1,11 +1,21 @@
 streamlit
-pydantic
-structlog
+pandas
 pymupdf
 python-dotenv
-pandas
+pydantic
+structlog
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+langchain-groq
+langchain-google-genai
+
+google-generativeai
+
+tavily-python
+
 pytest
 pytest-mock
-# Optional providers (install when using real APIs):
-# langchain_groq
-# langchain_google_genai
