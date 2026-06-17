@@ -19,3 +19,4 @@ tavily-python
 
 pytest
 pytest-mock
+plotly
